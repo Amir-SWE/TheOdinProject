@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+h1, h2 {
+    color: darkolivegreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 26px;
+}
+
+p, li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+.recipe {
+    border-style: solid;
+    background-color: aliceblue;
+}
+
+.odin {
+    height: 200px;
+    width: auto;
+}
+
+.recipepic {
+    width: auto;
+    height: 400px;
+}
